@@ -1,8 +1,8 @@
 # AB-Testing
 
 # Deskripsi Teknis
-Nama eksperimen: recommender_system_test
-Kelompok: А (kontrol), B (corong pembayaran yang baru)
+- Nama eksperimen: recommender_system_test
+- Kelompok: А (kontrol), B (corong pembayaran yang baru)
 Tanggal dimulainya eksperimen: 07-12-2020
 Tanggal saat mereka berhenti menerima pengguna baru: 21-12-2020
 Tanggal berakhirnya eksperimen: 01-01-2021
